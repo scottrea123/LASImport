@@ -12,7 +12,8 @@ Uses the following libraries:
   SQLite.net: https://github.com/praeclarum/sqlite-net
   
 
-
+To Install:
+Download bundle:
 Install using AutoLoad described here: https://stackoverflow.com/questions/46282189/autocad-2018-autoload-dll
 
 Documentation currently not available.
