@@ -8,26 +8,28 @@ LAS & LAZ file formats are accepted.
 -----------------------
 
 Features:
-
+<ol>
+  <li>
 Load LAS & LAZ files (version 1.2 tested, others YMMV)
-
+<li>
 Bulk Point Cloud boundary import (rectangular bounds)
-
+<li>
 Convex Hull creation (tight boundary around cloud)
-
+<li>
 OpenGL 3D and Plan views
-
+<li>
 Civil3D DTM sample & overlay
-
+<li>
 COGO point creation
-
+<li>
 2D polyline elevation sampling
-
+<li>
 DTM elevation audit
-
+<li>
 Alignment sectioning at interval
-
+<li>
 Measurement tool
+    </ol>
 
 -----------------------
 
