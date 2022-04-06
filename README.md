@@ -3,10 +3,10 @@ Addon for Civil3D to support point clouds.
 
 Uses the following libraries:
 
-LoycCore: https://github.com/qwertie/LoycCore
-OpenTK: https://github.com/opentk/opentk
-LASZIP.net: https://github.com/shintadono/laszip.net
-SQLite.net: https://github.com/praeclarum/sqlite-net
+  LoycCore: https://github.com/qwertie/LoycCore
+  OpenTK: https://github.com/opentk/opentk
+  LASZIP.net: https://github.com/shintadono/laszip.net
+  SQLite.net: https://github.com/praeclarum/sqlite-net
 
 
 Install using AutoLoad described here: https://stackoverflow.com/questions/46282189/autocad-2018-autoload-dll
