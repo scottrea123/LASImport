@@ -1,4 +1,8 @@
 # LASImport v2.0
+This software is distributed WITHOUT ANY WARRANTY and without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+------------------------------
+
 Addon for Civil3D to support point clouds.
 
 LAS & LAZ file formats are accepted.
@@ -69,6 +73,6 @@ See: https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schem
 
 Documentation currently not available.
 
---------------------
 
-This software is distributed WITHOUT ANY WARRANTY and without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
