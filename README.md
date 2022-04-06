@@ -3,7 +3,7 @@ Addon for Civil3D to support point clouds.
 
 LAS & LAZ file formats are accepted.
 
-To launch application in Civil3D, enter the command "LAS"
+<b>To launch application in Civil3D, enter the command "LAS"</b>
 
 -----------------------
 
