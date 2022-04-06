@@ -1,6 +1,8 @@
 # LASImport
 Addon for Civil3D to support point clouds.
 
+To launch application in Civil3D, enter the command "LAS"
+
 -----------------------
 
 Uses the following libraries:
@@ -28,9 +30,5 @@ To support very large point clouds in memory, enable VeryLargeObjects support in
 See: https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/runtime/gcallowverylargeobjects-element?redirectedfrom=MSDN
 
 --------------------
-
-To launch application in Civil3D, enter the command "LAS"
-
--------------------
 
 Documentation currently not available.
