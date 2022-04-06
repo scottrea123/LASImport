@@ -21,7 +21,7 @@ Civil3D DTM sample & overlay
 
 COGO point creation
 
-2D poyline elevation sampling
+2D polyline elevation sampling
 
 DTM elevation audit
 
