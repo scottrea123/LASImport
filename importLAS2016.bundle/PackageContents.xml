@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" ProductType="Application" Name="importLAS2016" AppVersion="1.0" Description="M" Author="SR" ProductCode="7b5bda06-e91a-411c-b353-9c252317aa8e">
+   <Components>   
+	<RuntimeRequirements SeriesMin="R20.1" SeriesMax="R24.0" />
+    <ComponentEntry AppName="M" ModuleName="importLAS.dll" LoadOnAutoCADStartup="True">     
+    </ComponentEntry>   
+	</Components>  
+</ApplicationPackage>
