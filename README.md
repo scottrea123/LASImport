@@ -7,6 +7,30 @@ To launch application in Civil3D, enter the command "LAS"
 
 -----------------------
 
+Features:
+
+Load LAS & LAZ files (version 1.2 tested, others YMMV)
+
+Bulk Point Cloud boundary import (rectangular bounds)
+
+Convex Hull creation (tight boundary around cloud)
+
+OpenGL 3D and Plan views
+
+Civil3D DTM sample & overlay
+
+COGO point creation
+
+2D poyline elevation sampling
+
+DTM elevation audit
+
+Alignment sectioning at interval
+
+Measurement tool
+
+-----------------------
+
 ![image](https://user-images.githubusercontent.com/97759630/162006863-2498db21-96b2-4395-aaf3-ca7ca337d8d6.png)
 
 ![image](https://user-images.githubusercontent.com/97759630/162006907-a316d148-527e-45c7-aec8-0c144811540b.png)
