@@ -23,9 +23,7 @@ Install using AutoLoad described here: https://stackoverflow.com/questions/46282
 
 To support very large point clouds in memory, enable VeryLargeObjects support in the acad.exe.config file:
 
-  <runtime>        	
-	  <gcAllowVeryLargeObjects enabled="true" />
-  </runtime>
+![image](https://user-images.githubusercontent.com/97759630/162004361-5e405aaf-3a76-4783-952e-27ec3106ce08.png)
 
 See: https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/runtime/gcallowverylargeobjects-element?redirectedfrom=MSDN
 
