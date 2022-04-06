@@ -1,4 +1,4 @@
-# LASImport
+# LASImport v2.0
 Addon for Civil3D to support point clouds.
 
 LAS & LAZ file formats are accepted.
